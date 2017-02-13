@@ -2,7 +2,7 @@
 .DS_Store
 .Rapp.history
 .Rproj.user/
-"Current CRAN Pkgs/"
+CurrentCRANPkgs/
 *.toc
 *.gz
 *.snm
