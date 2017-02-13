@@ -3,11 +3,9 @@
 
 This site contains the presentation materials I used at PANIC 2017.  A few graphics are authored by others: the source is cited in the presentation.
 
-Prof. Bryan Hanson
-
-Dept. of Chemistry & Biochemistry
-
-DePauw University
+Prof. Bryan Hanson</br>
+Dept. of Chemistry & Biochemistry</br>
+DePauw University</br>
 
 ##### License Information
 
